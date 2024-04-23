@@ -3,10 +3,12 @@
 
 I share these logo so people can use it noncommercially
 
-<img width="400" src="vtuberlogo_x_v1.png">
-<img width="400" src="vtuberlogo_x_v2.png">
-<img width="400" src="vtuberlogo_twitter_v1.png">
-<img width="400" src="vtuberlogo_twitter_v2.png">
+<img width="300" src="vtuberlogo_x_v1.png">
+<img width="300" src="vtuberlogo_x_v2.png">
+<img width="300" src="vtuberlogo_x_v3.png">
+<img width="300" src="vtuberlogo_twitter_v1.png">
+<img width="300" src="vtuberlogo_twitter_v2.png">
+<img width="300" src="vtuberlogo_twitter_v3.png">
 
 > [!IMPORTANT]
 > # THESE ARE NOT OFFICIAL LOGOS
