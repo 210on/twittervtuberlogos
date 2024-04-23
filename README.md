@@ -1,4 +1,5 @@
 # twitter vtuber logos
+[My twitter post](https://x.com/210on/status/1782415948886294905)
 I share these logo so people can use it noncommercially
 
 <img width="400" src="vtuberlogo_x_v1.png">
